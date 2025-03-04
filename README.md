@@ -1,4 +1,4 @@
-## Repo name
+## Pygame: Drawing a Background Scene 
 
 Please see the wiki at the top of your GitHub window.
 
